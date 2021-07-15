@@ -1,2 +1,2 @@
 # TaleSpire-PlayerNameFixPlugin
-Unofficial plugin to change the base color of TaleSpire mini to a set color or sequence of colors
+Unofficial plugin to change the displayed names of the various Players in the game
